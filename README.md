@@ -2,3 +2,6 @@
 Insanity!
 
 In Perl.
+
+MIT
+Duh.
